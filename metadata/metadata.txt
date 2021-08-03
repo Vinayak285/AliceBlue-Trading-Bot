@@ -1,0 +1,12 @@
+metadata links- https://www1.nseindia.com/corporates/content/securities_info.htm
+
+symbol_change = https://www1.nseindia.com/content/equities/symbolchange.csv
+company_name_change = https://www1.nseindia.com/content/equities/namechange.csv
+eq_seg_sec = https://www1.nseindia.com/content/equities/EQUITY_L.csv
+debt_sec = https://www1.nseindia.com/content/equities/DEBT.csv
+pref_sec = https://www1.nseindia.com/content/equities/PREF.csv
+etf = https://www1.nseindia.com/content/equities/eq_etfseclist.csv
+
+options_scheme = https://www1.nseindia.com/content/fo/sos_scheme.xls
+BSE-
+active_eq = https://www.bseindia.com/corporates/List_Scrips.aspx
